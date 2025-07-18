@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Final-year ECE student @ IGDTUW · Building with intent · Designing with empathy  
+  ECE student @ IGDTUW · Building with intent · Designing with empathy  
   <br>
   <em>Curious about code, committed to clarity, and always creating with purpose.</em>
 </p>
